@@ -1,0 +1,17 @@
+{
+	"Name": "SDV Sobble",
+	"Author": "mletzk",
+	"Description": "Adds a custom NPC based on the pokemon Sobble.",
+	"Version": "1.0.0",
+	"UniqueID": "mletzk.sobble",
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	},
+	"UpdateKeys": [ "Nexus:???" ],
+	"Dependencies": [
+		{
+			"UniqueID": "FlashShifter.StardewValleyExpandedCP",
+			"IsRequired": true
+		}
+	]
+}
